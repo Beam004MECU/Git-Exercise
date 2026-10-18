@@ -5,7 +5,7 @@ Assignment source: [cratchat/Git-Exercise](https://github.com/cratchat/Git-Exerc
 ## 👤 1. Student Information
 
 Name: Phurinat Chaikaow  
-Email: _Pending confirmation_
+Email: phurinatch04@gmail.com
 
 ## 🖼️ 2. Picture
 
